@@ -19,10 +19,13 @@ I am <em><strong>Tushar Bhatia</strong></em>.
 ![NodeJs](nodejs.JPG)
 ![express](express.JPG)
 
-<h3>Object Oriented Programming and DSA</h3>
+<h3><em>Object Oriented Programming and DSA</em></h3>
 
 ![c++](c-.png)
 
+<h3><em>Database Technologies</em></h3>
+
+![sql](sql.png)
 
 
 <!---
