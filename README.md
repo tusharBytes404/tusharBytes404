@@ -26,6 +26,7 @@ I am <em><strong>Tushar Bhatia</strong></em>.
 <h3><em>Database Technologies</em></h3>
 
 ![sql](sql.png)
+![mongodb](mongodb.svg)
 
 
 <!---
