@@ -31,7 +31,7 @@ I am <em><strong>Tushar Bhatia</strong></em>.
 
 <h2><em>Database Technologies</em></h2>
 
-<h4><em>Ms-SQL, Oracle-SQL, PostGre-SQL MongoDB</em></h4>
+<h4><em>Ms-SQL, Oracle-SQL, PostGre-SQL, MongoDB</em></h4>
 
 ![sql](sql.png)
 ![mongodb](mongodb.svg)
