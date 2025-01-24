@@ -14,6 +14,7 @@ I am <em><strong>Tushar Bhatia</strong></em>.
 <h3><em>Web Development</em></h3>
 
 ![html](html.JPG)
+![css](css.JPG)
 ![JavaScript](js.JPG)
 ![NodeJs](nodejs.JPG)
 
