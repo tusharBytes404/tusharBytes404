@@ -24,15 +24,21 @@ I am <em><strong>Tushar Bhatia</strong></em>.
 
 <h3><em>Object Oriented Programming and DSA</em></h3>
 
+<h4><em>C++, Python3</em></h4>
+
 ![c++](c-.png)
 ![python](python.png)
 
 <h3><em>Database Technologies</em></h3>
 
+<h4><em>Ms-SQL, Oracle-SQL, PostGre-SQL MongoDB</em></h4>
+
 ![sql](sql.png)
 ![mongodb](mongodb.svg)
 
 <h3><em>Artificial Intelligence and Machine Learning</em></h3>
+
+<h4><em>Python3, Pandas, Numpy, Matplotlib, Seaborn, Ultralytics, OpenCV, Scikit-learn, TensorFlow, PyTorch</em></h4>
 
 ![python](python.png)
 ![scikit-learn](scikit-learn.png)
