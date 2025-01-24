@@ -16,6 +16,7 @@ I am <em><strong>Tushar Bhatia</strong></em>.
 ![html](html.JPG)
 ![css](css.JPG)
 ![JavaScript](js.JPG)
+![react](react.gif)
 ![NodeJs](nodejs.JPG)
 
 
