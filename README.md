@@ -1,5 +1,7 @@
 <h2>Hi Everyone!<h2></h2>
-I am Tushar Bhatia. I am a computer enthusiast and earned my bachelor's in computer science and engineering.
+I am <em></em>Tushar Bhatia</h2>em>. 
+
+I am a computer enthusiast and earned my bachelor's in computer science and engineering.
 I have worked as a System Engineer and on multiple tools, and I love mathematics and programming.
 So, I have joined this community to learn, contribute and create something valuable. :)
 
