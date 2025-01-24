@@ -11,7 +11,7 @@ I am <em><strong>Tushar Bhatia</strong></em>.
 
 <h3>Skills</h3>
 
-![JavaScript](js.JPG)
+![JavaScript](https://camo.githubusercontent.com/eb0979be784dabaedffe64d7a7b0dd91638e70e98ba739f522b00e6c4074911d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631433f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465)
 ![NodeJs](nodejs.JPG)
 
 
