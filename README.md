@@ -28,6 +28,11 @@ I am <em><strong>Tushar Bhatia</strong></em>.
 ![sql](sql.png)
 ![mongodb](mongodb.svg)
 
+<h3><em>Artificial Intelligence and Machine Learning</em></h3>
+
+![python](python.png)
+
+
 
 <!---
 tusharx0809/tusharx0809 is a ✨ particular ✨ repository because its `README.md` (this file) appears on your GitHub profile.
