@@ -11,7 +11,7 @@ I am <em><strong>Tushar Bhatia</strong></em>.
 
 <h3>Skills</h3>
 
-[![JavaScript](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3FjMnZnN2J0ZnczMnhhcWswdzZ2czFrczlrdDIyb3NtOTlpdmQxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif)]
+
 
 <!---
 tusharx0809/tusharx0809 is a ✨ particular ✨ repository because its `README.md` (this file) appears on your GitHub profile.
