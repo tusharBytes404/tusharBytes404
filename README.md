@@ -12,7 +12,7 @@ I am <em><strong>Tushar Bhatia</strong></em>.
 <h3>Skills</h3>
 
 <ul>
-  <li>![Alt text](js.JPG)</li>
+  <li>![JavaScript](js.JPG)</li>
 </ul>
 
 
