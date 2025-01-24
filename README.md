@@ -14,31 +14,29 @@ I am <em><strong>Tushar Bhatia</strong></em>.
 <h3><em>Web Development</em></h3>
 
 
-<h4><em>HTML5</em></h4>
-
-![html](html.JPG)  
+![html](html.JPG)
 ![css](css.JPG)
-![JavaScript](js.JPG) 
-![react](react.gif) 
-![NodeJs](nodejs.JPG) 
+![JavaScript](js.JPG)
+![react](react.gif)
+![NodeJs](nodejs.JPG)
 ![express](express.JPG) 
 
 <h3><em>Object Oriented Programming and DSA</em></h3>
 
-![c++](c-.png) 
-![python](python.png) 
+![c++](c-.png)
+![python](python.png)
 
 <h3><em>Database Technologies</em></h3>
 
-![sql](sql.png) 
-![mongodb](mongodb.svg)  
+![sql](sql.png)
+![mongodb](mongodb.svg)
 
 <h3><em>Artificial Intelligence and Machine Learning</em></h3>
 
-![python](python.png) 
-![scikit-learn](scikit-learn.png) 
-![tensorFlow](TensorFlow.png) 
-![pyTorch](PyTorch.png) 
+![python](python.png)
+![scikit-learn](scikit-learn.png)
+![tensorFlow](TensorFlow.png)
+![pyTorch](PyTorch.png)
  
 
 
