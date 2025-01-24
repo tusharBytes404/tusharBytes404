@@ -11,7 +11,7 @@ I am <em><strong>Tushar Bhatia</strong></em>.
 
 <h3>Skills</h3>
 
-![JavaScript](js.JPG)
+Javascript![JavaScript](js.JPG)
 ![NodeJs](nodejs.JPG)
 
 
