@@ -46,7 +46,7 @@ I am <em><strong>Tushar Bhatia</strong></em>.
 ![pyTorch](PyTorch.png)
  
 
-
+![debugging](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtzYmtpZ2MzejAwcnA1c3dua2V2Mm9pNWFiZ2VvaGFmZTdpcndlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vcdbi5o470i9FACaZO/giphy.gif)
 <!---
 tusharx0809/tusharx0809 is a ✨ particular ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
