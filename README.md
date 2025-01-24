@@ -31,6 +31,9 @@ I am <em><strong>Tushar Bhatia</strong></em>.
 <h3><em>Artificial Intelligence and Machine Learning</em></h3>
 
 ![python](python.png)
+![scikit-learn](scikit-learn.png)
+![tensorFlow](TensorFlow.png)
+![pyTorch](PyTorch.png)
 
 
 
