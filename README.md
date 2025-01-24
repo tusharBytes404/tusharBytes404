@@ -11,6 +11,7 @@ I am <em><strong>Tushar Bhatia</strong></em>.
 
 <h3>Skills</h3>
 
+<i class="fa-brands fa-js fa-2xs" style="color: #FFD43B;"></i>
 
 
 <!---
