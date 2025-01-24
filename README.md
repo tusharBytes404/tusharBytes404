@@ -3,7 +3,7 @@ I am <em><strong>Tushar Bhatia</strong></em>.
 
 <ul>
   <li>I am a computer enthusiast and earned my bachelor's in Computer Science and Engineering.</li>
-  <li>>I have worked as a System Engineer and on multiple tools(Informatica, SSIS).</li>
+  <li>I have worked as a System Engineer and on multiple tools(Informatica, SSIS).</li>
   <li>I love mathematics and programming.</li>
   <li>I have joined this community to learn, contribute and create something valuable in the era of Artificial Intelligence. </li>
 </ul>
