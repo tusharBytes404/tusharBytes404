@@ -13,7 +13,11 @@ I am <em><strong>Tushar Bhatia</strong></em>.
 
 <h3><em>Web Development</em></h3>
 
-![html](html.JPG) <h4><em>HTML5</em></h4> <br>
+
+<h4><em>HTML5</em></h4>
+
+![html](html.JPG)  
+
 ![css](css.JPG) <h4><em>CSS3</em></h4> <br>
 ![JavaScript](js.JPG) <h4><em>JavaScript</em></h4> <br>
 ![react](react.gif) <h4><em>ReactJS</em></h4> <br>
