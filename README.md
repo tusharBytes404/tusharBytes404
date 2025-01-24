@@ -9,9 +9,9 @@ I am <em><strong>Tushar Bhatia</strong></em>.
   <li>I have joined this community to learn, contribute and create something valuable in the era of Artificial Intelligence. </li>
 </ul>
 
-<h3>Skills</h3>
+<h1>Skills</h1>
 
-Javascript![JavaScript](js.JPG)
+<h3><em>Web Development</em></h3>![JavaScript](js.JPG)
 ![NodeJs](nodejs.JPG)
 
 
