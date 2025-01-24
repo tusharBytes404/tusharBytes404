@@ -8,14 +8,9 @@ I am <em><strong>Tushar Bhatia</strong></em>.
   <li>I have joined this community to learn, contribute and create something valuable in the era of Artificial Intelligence. </li>
 </ul>
 
-<h3>Recents Works</h3>
+<h3>Skills</h3>
 
-<ul>
-  <li>Built a social media app using MERN stack.</li>
-  <li>Building a banking website using MERN stack.</li>
-  <li>Built a Banking System utilizing Object Oriented Programming concepts in C++.</li>
-  <li>Built Machine learning models predicting Annual medical charges, Rainfall tomorrow!</li>
-</ul>
+<button>JavaScript</button>
 <!---
 tusharx0809/tusharx0809 is a ✨ particular ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
