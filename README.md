@@ -1,7 +1,7 @@
 ![gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJtaDU2ejNxZHh0NXM5cXVhM2NuZjN3dmJ4NTRuajZ4YzdtdzEzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)
 <h1>Hi Everyone!</h1>
 
- <h3><a href="https://tusharx0809.github.io/portfolio/">Portfolio</a></h3>
+ <h3><em><a href="https://tusharx0809.github.io/portfolio/">My Portfolio</a></em></h3>
 
 I am <em><strong>Tushar Bhatia</strong></em>. 
 
