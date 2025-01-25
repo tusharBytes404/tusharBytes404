@@ -1,6 +1,9 @@
 ![gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJtaDU2ejNxZHh0NXM5cXVhM2NuZjN3dmJ4NTRuajZ4YzdtdzEzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)
-<h2>Hi Everyone!</h2>
-I am <em><strong>Tushar Bhatia</strong></em>. <a href="https://tusharx0809.github.io/portfolio/"> Portfolio</a>
+<h1>Hi Everyone!</h1>
+
+<a href="https://tusharx0809.github.io/portfolio/"> <h3>Portfolio</h3></a>
+
+I am <em><strong>Tushar Bhatia</strong></em>. 
 
 <ul>
   <li>I am a computer enthusiast and earned my bachelor's in Computer Science and Engineering.</li>
