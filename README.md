@@ -48,9 +48,8 @@ I am <em><strong>Tushar Bhatia</strong></em>.
 ![scikit-learn](scikit-learn.png)
 ![tensorFlow](TensorFlow.png)
 ![pyTorch](PyTorch.png)
- 
 
-![debugging](debug.gif)
+![gif](https://tenor.com/en-IN/view/software-software-development-gif-24712790)
 <!---
 tusharx0809/tusharx0809 is a ✨ particular ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
