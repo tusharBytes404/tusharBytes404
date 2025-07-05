@@ -1,15 +1,17 @@
-![gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJtaDU2ejNxZHh0NXM5cXVhM2NuZjN3dmJ4NTRuajZ4YzdtdzEzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGN0eXp3Zm9jY2VkdnJ1aW04cnA5NmV0MnZoYmFnaXlmYmcxMmk2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" alt="gif" />
+</p>
+
 <h1>Hi Everyone!</h1>
 
- <h3><em><a href="https://tusharx0809.github.io/portfolio/">My Portfolio</a></em></h3>
 
 I am <em><strong>Tushar Bhatia</strong></em>. 
 
 <ul>
   <li>Passionate about technology, I hold a Bachelor's degree in Computer Science and Engineering.</li>
-  <li>Experienced System Engineer with expertise in tools like Informatica, SSIS, and various other technologies.</li>
+  <li>Experienced Software Engineer with expertise in tools like Informatica, SQL Server, PowerBI and various other technologies.</li>
   <li>Avid lover of mathematics and programming, always seeking to solve complex problems with elegant solutions.</li>
-  <li>Joined this vibrant community to collaborate, contribute, and build innovative solutions in the exciting realm of Artificial Intelligence.</li>
+  <li>Joined this vibrant community to collaborate, contribute, and build innovative solutions.</li>
 </ul>
 
 
@@ -49,7 +51,7 @@ I am <em><strong>Tushar Bhatia</strong></em>.
 ![tensorFlow](TensorFlow.png)
 ![pyTorch](PyTorch.png)
 
-![debug](debug.gif)
+
 <!---
 tusharx0809/tusharx0809 is a ✨ particular ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
