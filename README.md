@@ -15,10 +15,14 @@ I am <em><strong>Tushar Bhatia</strong></em>.
 </ul>
 
 
-<h1>Skills</h1>
+<p align="center">
+  <h1>Skills</h1>
+</P>
+<p align="center"> 
+  <h2><em>Web Development</em></h2>
+</p>
 
-<h2><em>Web Development</em></h2>
-
+<p align="center">
 <h4><em>HTML5, CSS3, JavaScript, ReactJS, NodeJS, ExpressJS</em></h4>
 
 ![html](html.JPG)
@@ -27,7 +31,8 @@ I am <em><strong>Tushar Bhatia</strong></em>.
 ![react](react.gif)
 ![NodeJs](nodejs.JPG)
 ![express](express.JPG) 
-
+</p>
+<p align="center">
 <h2><em>Object Oriented Programming and DSA</em></h2>
 
 <h4><em>C++, Python3</em></h4>
@@ -35,13 +40,17 @@ I am <em><strong>Tushar Bhatia</strong></em>.
 ![c++](c-.png)
 ![python](python.png)
 
+</p>
+<p align="center">
 <h2><em>Database Technologies</em></h2>
 
 <h4><em>Ms-SQL, Oracle-SQL, PostGre-SQL, MongoDB</em></h4>
 
 ![sql](sql.png)
 ![mongodb](mongodb.svg)
+</p>
 
+<p align="center">
 <h2><em>Artificial Intelligence and Machine Learning</em></h2>
 
 <h4><em>Python3, Pandas, Numpy, Matplotlib, Seaborn, Ultralytics, OpenCV, Scikit-learn, TensorFlow, PyTorch</em></h4>
@@ -50,7 +59,7 @@ I am <em><strong>Tushar Bhatia</strong></em>.
 ![scikit-learn](scikit-learn.png)
 ![tensorFlow](TensorFlow.png)
 ![pyTorch](PyTorch.png)
-
+</p>
 
 <!---
 tusharx0809/tusharx0809 is a ✨ particular ✨ repository because its `README.md` (this file) appears on your GitHub profile.
