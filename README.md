@@ -79,7 +79,7 @@ main()
 	if (Learning() || WorkingOut()) 
 		growth += 1 
 	if (Learning() && WorkingOut()) 
-	growth += 2 
+		growth += 2 
 ``` </pre>
 <!---
 tusharx0809/tusharx0809 is a ✨ particular ✨ repository because its `README.md` (this file) appears on your GitHub profile.
