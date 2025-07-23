@@ -37,7 +37,7 @@ I am <em><strong>Tushar Bhatia</strong></em>.
   <h4><em>Ms-SQL, Oracle-SQL, PostGre-SQL, MongoDB</em></h4>
   <img src="sql.png" alt="sql" />
   <img src="mongodb.svg" alt="mongodb" />
-
+</div>
 
 
 <pre> ``` 
