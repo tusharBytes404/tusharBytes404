@@ -38,13 +38,6 @@ I am <em><strong>Tushar Bhatia</strong></em>.
   <img src="sql.png" alt="sql" />
   <img src="mongodb.svg" alt="mongodb" />
 
-  <h2><em>Artificial Intelligence and Machine Learning</em></h2>
-  <h4><em>Python3, Pandas, Numpy, Matplotlib, Seaborn, Ultralytics, OpenCV, Scikit-learn, TensorFlow, PyTorch</em></h4>
-  <img src="python.png" alt="python" />
-  <img src="scikit-learn.png" alt="scikit-learn" />
-  <img src="TensorFlow.png" alt="TensorFlow" />
-  <img src="PyTorch.png" alt="PyTorch" />
-</div>
 
 
 <pre> ``` 
