@@ -48,7 +48,8 @@ I am <em><strong>Tushar Bhatia</strong></em>.
 
 
 <pre> ``` 
-//Digital World Life Code
+/* _Digital World Life Code_ */
+
 bool SocialMedia() 
 	if (using) 
 		return true
