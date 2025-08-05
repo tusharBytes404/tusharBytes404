@@ -15,31 +15,6 @@ I am <em><strong>Tushar Bhatia</strong></em>.
 </ul>
 
 
-<div align="center">
-  <h1>Skills</h1>
-
-  <h2><em>Web Development</em></h2>
-  <h4><em>HTML5, CSS3, JavaScript, ReactJS, NodeJS, ExpressJS</em></h4>
-
-  <img src="html.JPG" alt="html" />
-  <img src="css.JPG" alt="css" />
-  <img src="js.JPG" alt="JavaScript" />
-  <img src="react.gif" alt="react" />
-  <img src="nodejs.JPG" alt="nodejs" />
-  <img src="express.JPG" alt="express" />
-
-  <h2><em>Object Oriented Programming and DSA</em></h2>
-  <h4><em>C++, Python3</em></h4>
-  <img src="c-.png" alt="c++" />
-  <img src="python.png" alt="python" />
-
-  <h2><em>Database Technologies</em></h2>
-  <h4><em>Ms-SQL, Oracle-SQL, PostGre-SQL, MongoDB</em></h4>
-  <img src="sql.png" alt="sql" />
-  <img src="mongodb.svg" alt="mongodb" />
-</div>
-
-
 <pre> ``` 
 /* _Digital World Life Code_ */
 
