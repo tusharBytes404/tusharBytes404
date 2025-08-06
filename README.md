@@ -10,7 +10,7 @@
 <h3>🤝 <span style="color:#3498db">Joined this vibrant community</span> to collaborate, contribute, and build innovative solutions.</h3>
 
 
-
+<br><br><br> 
 
 
 
@@ -22,17 +22,14 @@ bool SocialMedia()
 	if (using) 
 		return true
 	return false
-
 bool Partying()  
 	if (partying) 
 		return true 
 	return false 
-
 bool Learning()  
 	if (everyday) 
 		return true 
 	return false  
-
 bool WorkingOut()  
 	if (everyday) 
 		return true
