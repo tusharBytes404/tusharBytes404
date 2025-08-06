@@ -2,12 +2,13 @@
  ![Intro GIF](https://github.com/tusharBytes404/tusharBytes404/blob/main/intro_gif.gif?raw=true)
 
 
-<ul>
-  <li>Passionate about technology, I hold a Bachelor's degree in Computer Science and Engineering.</li>
-  <li>Experienced Software Engineer with expertise in tools like Informatica, SQL Server, PowerBI and various other technologies.</li>
-  <li>Avid lover of mathematics and programming, always seeking to solve complex problems with elegant solutions.</li>
-  <li>Joined this vibrant community to collaborate, contribute, and build innovative solutions.</li>
-</ul>
+<h2 align="center">🚀 About Me</h2>
+
+- ✨ **<span style="color:#f39c12">Passionate about technology</span>** — I hold a *Bachelor's degree in Computer Science and Engineering*.  
+- 🛠 **<span style="color:#27ae60">Experienced Software Engineer</span>** — Skilled in **Informatica**, **SQL Server**, **PowerBI**, and various other technologies.  
+- 📐 *<span style="color:#9b59b6">Avid lover of mathematics and programming</span>*, always seeking to solve complex problems with elegant solutions.  
+- 🤝 *<span style="color:#3498db">Joined this vibrant community</span>* to collaborate, contribute, and build innovative solutions.  
+
 
 
 <pre> ``` 
