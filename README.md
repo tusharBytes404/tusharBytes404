@@ -1,5 +1,5 @@
 
- ![Intro GIF](https://github.com/tusharBytes404/tusharBytes404/intro_gif.giff?raw=true)
+ ![Intro GIF](https://github.com/tusharBytes404/tusharBytes404/blob/main/intro_gif.gif?raw=true)
 
 
 <ul>
