@@ -2,11 +2,6 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGN0eXp3Zm9jY2VkdnJ1aW04cnA5NmV0MnZoYmFnaXlmYmcxMmk2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" alt="gif" />
 </p>
 
-<h1>Hi Everyone!!</h1>
-
-
-I am <em><strong>Tushar Bhatia</strong></em>. 
-
 <ul>
   <li>Passionate about technology, I hold a Bachelor's degree in Computer Science and Engineering.</li>
   <li>Experienced Software Engineer with expertise in tools like Informatica, SQL Server, PowerBI and various other technologies.</li>
