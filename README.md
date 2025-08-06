@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGN0eXp3Zm9jY2VkdnJ1aW04cnA5NmV0MnZoYmFnaXlmYmcxMmk2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" alt="gif" />
+  ![](https://github.com/tusharBytes404/tusharBytes404/blob/main/intro_gif.gif)
 </p>
 
 <ul>
