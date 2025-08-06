@@ -1,6 +1,6 @@
-<p align="center">
-  ![Intro GIF](https://github.com/tusharBytes404/tusharBytes404/intro_gif.giff?raw=true)
-</p>
+
+ ![Intro GIF](https://github.com/tusharBytes404/tusharBytes404/intro_gif.giff?raw=true)
+
 
 <ul>
   <li>Passionate about technology, I hold a Bachelor's degree in Computer Science and Engineering.</li>
