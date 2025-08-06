@@ -1,6 +1,6 @@
-
+<p align="center">
  ![Intro GIF](https://github.com/tusharBytes404/tusharBytes404/blob/main/intro_gif.gif?raw=true)
-
+</p>
 
 <h2 align="center">🚀 About Me</h2>
 
