@@ -1,5 +1,5 @@
 <p align="center">
-  ![](https://github.com/tusharBytes404/tusharBytes404/blob/main/intro_gif.gif)
+  ![Intro GIF](https://github.com/tusharBytes404/tusharBytes404/blob/main/intro.gif?raw=true)
 </p>
 
 <ul>
